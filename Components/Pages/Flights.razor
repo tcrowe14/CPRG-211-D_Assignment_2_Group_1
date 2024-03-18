@@ -1,0 +1,397 @@
+﻿@page "/Flights"
+
+
+@using Assignment2.Components.Pages.Data;
+@using System.Text;
+
+
+
+<style>
+        * {
+            box-sizing: border-box;
+        }
+
+        /* Flex container for rows */
+        .row {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
+
+        /* Flex items */
+        .columnC {
+            width: 100%;
+            padding: 10px;
+            box-sizing: border-box;
+        }
+
+        .myself {
+            margin-bottom: 20px; 
+        }
+
+        .form-control {
+            width: 100%;
+        }
+
+        .button1 {
+            width: 100%; 
+            max-width: 300px; 
+            margin-top: 10px; 
+        }
+
+        .foundmessage {
+        font-weight: bold;
+        }
+
+        .center {
+            text-align: center;
+        }
+</style>
+
+
+
+@if (!string.IsNullOrWhiteSpace(errorMessage))
+{
+    <div style="color: red;">
+        @errorMessage
+    </div>
+}
+
+<div class="row">
+    <div class="columnC myself">
+        <h3 class="center">Find Flight</h3>
+        <br /><br />
+        <div class="row">
+            <div class="col-sm-3">
+                <label for="explicit-label-name">Origin:</label>
+                <select class="form-control" @bind="fromValue">
+                    <option value="@FlightManager.WeekdayAny">@FlightManager.WeekdayAny</option>
+                    @if (airports == null)
+                    {
+                        <option>Loading...</option>
+                    }
+                    else
+                    {
+                        @foreach (var a in airports)
+                        {
+                            <option value=@a>@a</option>
+                        }
+                    }
+                </select>
+            </div>
+            <div class="col-sm-3">
+                <label for="explicit-label-name">Destination:</label>
+                <select class="form-control" @bind="toValue">
+                    <option value="Any">@FlightManager.WeekdayAny</option>
+                    @if (airports == null)
+                    {
+                        <option>Loading...</option>
+                    }
+                    else
+                    {
+                        @foreach (var a in airports)
+                        {
+                            <option value=@a>@a</option>
+                        }
+                    }
+                </select>
+            </div>
+            <div class="col-sm-3">
+                <label for="explicit-label-name">Day:</label>
+                <select class="form-control" @bind="dayValue">
+                    <option value="@FlightManager.WeekdayAny">@FlightManager.WeekdayAny</option>
+                    <option value="@FlightManager.WeekdaySunday">@FlightManager.WeekdaySunday</option>
+                    <option value="@FlightManager.WeekdayMonday">@FlightManager.WeekdayMonday</option>
+                    <option value="@FlightManager.WeekdayTuesday">@FlightManager.WeekdayTuesday</option>
+                    <option value="@FlightManager.WeekdayWednesday">@FlightManager.WeekdayWednesday</option>
+                    <option value="@FlightManager.WeekdayThursday">@FlightManager.WeekdayThursday</option>
+                    <option value="@FlightManager.WeekdayFriday">@FlightManager.WeekdayFriday</option>
+                    <option value="@FlightManager.WeekdaySaturday">@FlightManager.WeekdaySaturday</option>
+                </select>
+            </div>
+            <div class="col-sm-3">
+                <label for="explicit-label-name">&nbsp;</label>
+                <button class="btn btn-primary form-control button1" @onclick="@FindFlights">Find Flights</button>
+            </div>
+        </div>
+        <span>Flight found: <span class="foundmessage">@flightFoundMessage</span> </span>
+    </div>
+</div>
+
+<div class="row">
+    <div class="columnC myself">
+        <h3 class="center">Flights Search Results</h3>
+        <br /><br />
+        <select class="form-control" @onchange="@fillForm">
+            @if (flights == null)
+            {
+                <option>Loading...</option>
+            }
+            else
+            {
+                <option>Select a flight from this list</option>
+                @foreach (var f in flights)
+                {
+                    <option value="@f.Code">@f.Code , @f.Airline, @f.Airline, @f.From, @f.To, @f.Weekday, @f.Time, @f.CostPerSeat</option>
+                }
+            }
+        </select>
+    </div>
+</div>
+
+<div class="row">
+    <div class="columnC myself">
+        <h3 class="center">Flight Details</h3>
+        <br />
+        <div>
+            <label>Flight code:</label> <input class="form-control" type="text" placeholder="Flight" value="@newFlightCode" readonly>
+            <label>Airline:</label><input class="form-control" type="text" placeholder="Airline" value="@newairline"readonly>
+            <label>Day:</label> <input class="form-control" type="text" placeholder="Day" value="@newweekday"readonly>
+            <label>Time:</label> <input class="form-control" type="text" placeholder="Time" value="@newtime"readonly>
+            <label>Cost:</label> <input class="form-control" type="text" placeholder="Cost" value="@newcostPerSeat"readonly>
+            <label>Name:</label> <input class="form-control" type="text" placeholder="Name" @bind="newName">
+            <label>Citizenship:</label><input class="form-control" type="text" placeholder="Citizenship" @bind="newCitizenship">
+        </div>
+        <br />
+        <div class="row">
+            <div class="center">
+                <button class="btn btn-primary button1" @onclick="CallMakeReservation">Reserve</button>
+                <br /> <br />
+                <p id="c" role="status" value="@newReservationCode">Reservation Code: @newReservationCode</p> 
+                <br />
+                <br />
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="columnC myself">
+        <h3 class="center">Check Reservations </h3>
+        <br />
+        <div>
+            <label>Reservation Code:</label><input class="form-control" type="text" id="code" name="code" @bind="inputResCode">
+            <label>Airline:</label><input class="form-control" type="text" id="airline" name="airline" @bind="inputAirline">
+            <label>Traveller Name:</label><input class="form-control" type="text" id="name" name="name" @bind="inputName">
+            <br />
+
+            <div class="row">
+                <div class="center">
+                    <button class="btn btn-primary button1" @onclick="SearchReservations">Find Reservations</button>
+                </div>
+            </div>
+            <span>Reservation found: <span class="foundmessage">@reservationFoundMessage</span> </span>
+        </div>
+        <br />
+        <br />
+        <br />
+        <div class="row">
+            <div class="center">
+                <h3>Your Reservations</h3>
+            </div>
+        </div>
+        <br />
+        <br />
+        <select class="form-control" onfocus="this.selectedIndex = -1;" @bind="currentReservation">
+            <option value=" " selected>Please select a reservation</option>
+            @if (resNew.Count() == 0)
+            {
+                <option>Loading...</option>
+            }
+            else
+            {
+                @foreach (var res in resNew)
+                {
+                    <option value="@res.Code"> @res.Code,@res.FlightCode,@res.Airline,@res.Cost,@res.Name,@res.Citizenship,@res.Active </option>
+                }
+            }
+        </select>
+
+        <br />
+        <div>
+            <br />
+            <div class="row">
+                <div class="center">
+                    <button class="btn btn-primary button1" @onclick="CancelReservations">Cancel Reservations</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>    
+
+
+@code {
+
+    //string flightCode;
+    static string newFlightCode;
+    string newairline;
+    string newfrom;
+    string newto;
+    string newweekday;
+    string newtime;
+    double newcostPerSeat;
+    string newName;
+    string newCitizenship;
+    string reservationCode;
+    string errorMessage = "";
+    string newReservationCode = "";
+
+    string flightFoundMessage;
+
+    FlightManager fm = new FlightManager();
+    List<Flight> flights = new List<Flight>();
+    List<string> airports = FlightManager.airports;
+
+    Flight flight;
+    string a;
+    string fromValue;
+    string toValue;
+    string dayValue;
+    private void FindFlights()
+    {
+        ClearErrorMessage();
+        newFlightCode = "";
+        newairline = "";
+        newfrom = "";
+        newto = "";
+        newweekday = "";
+        newtime = "";
+        newcostPerSeat = 0;
+        newName = "";
+        newCitizenship = "";
+        if (fromValue == null)
+        {
+            fromValue = FlightManager.WeekdayAny;
+        }
+        if (toValue == null)
+        {
+            toValue = FlightManager.WeekdayAny;
+        }
+        if (dayValue == null)
+        {
+            dayValue = FlightManager.WeekdayAny;
+        }
+
+        flights = FlightManager.findFlights(fromValue, toValue, dayValue);
+        if (flights != null && flights.Count > 0)
+        {
+            flightFoundMessage = "Yes!";
+        }
+        else
+        {
+            flightFoundMessage = "No";
+        }
+
+    }
+
+    private void fillForm(ChangeEventArgs e)
+    {
+        ClearErrorMessage();
+        newFlightCode = e.Value.ToString();
+        flight = FlightManager.findFlightByCode(newFlightCode);
+        newairline = flight.Airline;
+        newfrom = flight.From;
+        newto = flight.To;
+        newweekday = flight.Weekday;
+        newtime = flight.Time;
+        newcostPerSeat = flight.CostPerSeat;       
+    }
+
+    //This function creates the reservation and adds it in the csv file.
+    private void CallMakeReservation()
+    {
+        ClearErrorMessage();
+        ReservationManager rm = new ReservationManager();        
+        try
+        {
+            if (newFlightCode != null)
+            {
+                newReservationCode = rm.GenerateResCode();
+                var reservation = new Reservation(newReservationCode, newFlightCode, newairline, newcostPerSeat, newName, newCitizenship, "Active");
+                rm.AddReservation(reservation);
+            }
+            else
+            {
+                errorMessage = "An error has occurred. Please try again.";
+            }
+        }
+        catch(Exception e)
+        {
+            errorMessage = e.Message;
+        }
+    }
+
+    //Clears the error message on the alert box
+    private void ClearErrorMessage()
+    {
+        errorMessage = "";
+    }
+
+
+    //Reservation Code
+    string inputResCode = "";
+    string inputAirline = "";
+    string inputName = "";
+    string currentReservation;
+
+    string reservationFoundMessage;
+
+    ReservationManager rm = new ReservationManager();
+    List<Reservation> reservations;
+    List<Reservation> resNew = new List<Reservation>();
+
+
+    /* After the Find Reservation button is clicked will call this method to find reserved flights from reservation.csv file */
+    private void SearchReservations()
+    {
+        reservations = ReservationManager.GetReservations();
+        resNew.Clear();
+
+        foreach (var res in reservations)
+        {
+            bool matchCode = string.IsNullOrEmpty(inputResCode) || res.Code.Equals(inputResCode, StringComparison.OrdinalIgnoreCase);
+            bool matchAirline = string.IsNullOrEmpty(inputAirline) || res.Airline.Equals(inputAirline, StringComparison.OrdinalIgnoreCase);
+            bool matchName = string.IsNullOrEmpty(inputName) || res.Name.Equals(inputName, StringComparison.OrdinalIgnoreCase);
+
+            if (matchCode && matchAirline && matchName)
+            {
+                resNew.Add(res);
+                reservationFoundMessage = "Yes!";
+            }
+            else
+            {
+                reservationFoundMessage = "No";
+            }
+        }
+
+    }
+
+
+    /* After the Cancel Reservation button is clicked will call this method to cancel the current reservation and update the csv file */
+    private void CancelReservations()
+    {
+        foreach (var res in reservations)
+        {
+            if (currentReservation == res.Code)
+            {
+                rm.UpdateReservation(res);
+                break;
+            }
+        }
+
+        reservations = ReservationManager.GetReservations();
+        Reservation canceledReservation = new Reservation();
+        resNew.Clear();
+        foreach (var res in reservations)
+        {
+            if (currentReservation.ToUpper() == res.Code.ToUpper())
+            {
+                canceledReservation = new Reservation(res.Code, res.FlightCode, res.Airline, res.Cost, res.Name, res.Citizenship, res.Active);
+                resNew.Add(canceledReservation);
+                break;
+            }
+        }
+    }
+}
+
+

@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Maui\\Assignment2Final\\CPRG-211-D_Assignment_2_Group_1\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\Assignment2Final.styles.css",
+      "PackagePath": "staticwebassets\\Assignment2Final.styles.css"
+    },
+    {
+      "Id": "C:\\Maui\\Assignment2Final\\CPRG-211-D_Assignment_2_Group_1\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Maui\\Assignment2Final\\CPRG-211-D_Assignment_2_Group_1\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Maui\\Assignment2Final\\CPRG-211-D_Assignment_2_Group_1\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Maui\\Assignment2Final\\CPRG-211-D_Assignment_2_Group_1\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Maui\\Assignment2Final\\CPRG-211-D_Assignment_2_Group_1\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.Assignment2Final.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.build.Assignment2Final.props",
+      "PackagePath": "build\\Assignment2Final.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildMultiTargeting.Assignment2Final.props",
+      "PackagePath": "buildMultiTargeting\\Assignment2Final.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildTransitive.Assignment2Final.props",
+      "PackagePath": "buildTransitive\\Assignment2Final.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

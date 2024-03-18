@@ -1,0 +1,616 @@
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Assignment2Final.exe
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Assignment2Final.deps.json
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Assignment2Final.runtimeconfig.json
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Assignment2Final.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Assignment2Final.pdb
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Authorization.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.Forms.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.Web.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.WebView.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.WebView.Maui.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Metadata.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Binder.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Json.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.JSInterop.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Release.Net.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.IO.Pipelines.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ar\Microsoft.Maui.Controls.resources.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ca\Microsoft.Maui.Controls.resources.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cs\Microsoft.Maui.Controls.resources.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\da\Microsoft.Maui.Controls.resources.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\de\Microsoft.Maui.Controls.resources.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\el\Microsoft.Maui.Controls.resources.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\es\Microsoft.Maui.Controls.resources.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fi\Microsoft.Maui.Controls.resources.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fr\Microsoft.Maui.Controls.resources.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\he\Microsoft.Maui.Controls.resources.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hi\Microsoft.Maui.Controls.resources.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hr\Microsoft.Maui.Controls.resources.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hu\Microsoft.Maui.Controls.resources.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\id\Microsoft.Maui.Controls.resources.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\it\Microsoft.Maui.Controls.resources.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ja\Microsoft.Maui.Controls.resources.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ko\Microsoft.Maui.Controls.resources.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ms\Microsoft.Maui.Controls.resources.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nb\Microsoft.Maui.Controls.resources.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nl\Microsoft.Maui.Controls.resources.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pl\Microsoft.Maui.Controls.resources.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt\Microsoft.Maui.Controls.resources.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ro\Microsoft.Maui.Controls.resources.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ru\Microsoft.Maui.Controls.resources.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sk\Microsoft.Maui.Controls.resources.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sv\Microsoft.Maui.Controls.resources.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\th\Microsoft.Maui.Controls.resources.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\tr\Microsoft.Maui.Controls.resources.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\uk\Microsoft.Maui.Controls.resources.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\vi\Microsoft.Maui.Controls.resources.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+C:\Object Oriented Programming 2\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Assignment2Final.csproj.AssemblyReference.cache
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets.build.json
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets.development.json
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.Assignment2Final.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.build.Assignment2Final.props
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.buildMultiTargeting.Assignment2Final.props
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.buildTransitive.Assignment2Final.props
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets.pack.json
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\Assignment2Final.styles.css
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\Assignment2Final.bundle.scp.css
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets.publish.json
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Assignment2Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Assignment2Final.AssemblyInfoInputs.cache
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Assignment2Final.AssemblyInfo.cs
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Assignment2Final.csproj.CoreCompileInputs.cache
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Assignme.32B08EF6.Up2Date
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Assignment2Final.dll
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\refint\Assignment2Final.dll
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Assignment2Final.pdb
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Assignment2Final.genruntimeconfig.cache
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ref\Assignment2Final.dll
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Object Oriented Programming 2\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Assignment2Final.exe
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Assignment2Final.deps.json
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Assignment2Final.runtimeconfig.json
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Assignment2Final.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Assignment2Final.pdb
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Authorization.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.Forms.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.Web.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.WebView.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.WebView.Maui.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Metadata.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Binder.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Json.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.JSInterop.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Release.Net.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.IO.Pipelines.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ar\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ca\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cs\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\da\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\de\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\el\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\es\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fi\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fr\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\he\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hi\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hr\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hu\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\id\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\it\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ja\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ko\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ms\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nb\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nl\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pl\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ro\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ru\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sk\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sv\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\th\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\tr\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\uk\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\vi\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+C:\Maui\Assignment2Final\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Assignment2Final.csproj.AssemblyReference.cache
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets.build.json
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets.development.json
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.Assignment2Final.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.build.Assignment2Final.props
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.buildMultiTargeting.Assignment2Final.props
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.buildTransitive.Assignment2Final.props
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets.pack.json
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\Assignment2Final.styles.css
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\Assignment2Final.bundle.scp.css
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets.publish.json
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Assignment2Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Assignment2Final.AssemblyInfoInputs.cache
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Assignment2Final.AssemblyInfo.cs
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Assignment2Final.csproj.CoreCompileInputs.cache
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Assignment2Final.csproj.CopyComplete
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Assignment2Final.dll
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\refint\Assignment2Final.dll
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Assignment2Final.pdb
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Assignment2Final.genruntimeconfig.cache
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ref\Assignment2Final.dll
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Maui\Assignment2Final\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Assignment2Final.exe
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Assignment2Final.deps.json
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Assignment2Final.runtimeconfig.json
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Assignment2Final.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Assignment2Final.pdb
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Authorization.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.Forms.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.Web.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.WebView.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.WebView.Maui.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Metadata.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Binder.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Json.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.JSInterop.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Release.Net.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.IO.Pipelines.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ar\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ca\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cs\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\da\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\de\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\el\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\es\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fi\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fr\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\he\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hi\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hr\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hu\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\id\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\it\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ja\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ko\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ms\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nb\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nl\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pl\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ro\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ru\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sk\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sv\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\th\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\tr\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\uk\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\vi\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Assignment2Final.csproj.AssemblyReference.cache
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets.build.json
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets.development.json
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.Assignment2Final.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.build.Assignment2Final.props
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.buildMultiTargeting.Assignment2Final.props
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.buildTransitive.Assignment2Final.props
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets.pack.json
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\Assignment2Final.styles.css
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\Assignment2Final.bundle.scp.css
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets.publish.json
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Assignment2Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Assignment2Final.AssemblyInfoInputs.cache
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Assignment2Final.AssemblyInfo.cs
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Assignment2Final.csproj.CoreCompileInputs.cache
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Assignment2Final.sourcelink.json
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Assignment2Final.csproj.CopyComplete
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Assignment2Final.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\refint\Assignment2Final.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Assignment2Final.pdb
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Assignment2Final.genruntimeconfig.cache
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ref\Assignment2Final.dll
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Maui\Assignment2Final\CPRG-211-D_Assignment_2_Group_1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt

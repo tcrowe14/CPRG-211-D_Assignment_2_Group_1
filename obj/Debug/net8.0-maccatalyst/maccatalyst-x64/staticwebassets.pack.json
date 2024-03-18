@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Object Oriented Programming 2\\Assignment2Final\\obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\scopedcss\\bundle\\Assignment2Final.styles.css",
+      "PackagePath": "staticwebassets\\Assignment2Final.styles.css"
+    },
+    {
+      "Id": "C:\\Object Oriented Programming 2\\Assignment2Final\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Object Oriented Programming 2\\Assignment2Final\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Object Oriented Programming 2\\Assignment2Final\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Object Oriented Programming 2\\Assignment2Final\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Object Oriented Programming 2\\Assignment2Final\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.Assignment2Final.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.build.Assignment2Final.props",
+      "PackagePath": "build\\Assignment2Final.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.buildMultiTargeting.Assignment2Final.props",
+      "PackagePath": "buildMultiTargeting\\Assignment2Final.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.buildTransitive.Assignment2Final.props",
+      "PackagePath": "buildTransitive\\Assignment2Final.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

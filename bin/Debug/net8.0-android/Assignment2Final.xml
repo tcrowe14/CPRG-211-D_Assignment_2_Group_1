@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Assignment2Final</name>
+    </assembly>
+    <members>
+        <member name="M:Assignment2.Components.Pages.Data.FlightManager.populateAirports">
+            Populates airports with Airport objects from CSV file.
+        </member>
+    </members>
+</doc>
